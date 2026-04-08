@@ -1,7 +1,13 @@
 # DCA (ICCV 2025)
 Official implementation of our ICCV 2025 paper [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf).
 
-## Contributions
+## Authors
+
+**Mingyang Liu**<sup>1</sup>, **Xinyang Chen**<sup>1</sup>, **Yang Shu**<sup>2</sup>, **Xiucheng Li**<sup>1</sup>, **Weili Guan**<sup>3</sup>, **Liqiang Nie**<sup>1</sup>
+
+<sup>1</sup> `School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen)`  
+<sup>2</sup> `School of Data Science and Engineering, East China Normal University`  
+<sup>3</sup> `School of Information Science and Technology, Harbin Institute of Technology (Shenzhen)`  
 
 ## Datasets
 - [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
